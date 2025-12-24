@@ -1,0 +1,10 @@
+[package]
+name = "counter"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+sysinfo = "0.30"
+clearscreen = "2.0"
+ratatui="0.26"
+crossterm = "0.27"
